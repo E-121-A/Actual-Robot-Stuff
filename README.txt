@@ -16,5 +16,4 @@ Other cool stuff Github can do:
 If your code somehow just doesn't work anymore and you have no clue how to fix, you can rollback to a prior commit that actually works.
 You can create different "branches" of the same code. for example:
 1. A branch focused on what the robot does for the first half of the course (white floor) and a branch for the second half (black floor). Then combine the branches.
-2. An "experimental" branch for any coding you want to try but you don't want to risk messing up the master branch.
-
+2. An "experimental" branch for any coding you want to try but you don't want to risk messing up the master branch. Once you're done with the experimental branch and it works, you can merge the two to give the master branch all of the changes the experimental branch had.
